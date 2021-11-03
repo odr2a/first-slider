@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+.slider-pic{
+    outline: 5px solid white ;
+    outline-offset: -13px;
+}
+.text-holder{
+    width: 1200px;
+    height: 88px;
+    position: absolute;
+    top: 264px;
+    left: 0;
+    background-color:rgba(255, 255, 255, 0.5);;
+    padding: 15px 0px 15px 0px ;
+}
+.text-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.text-description{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 10px 0px 0px 150px;
+    font-size: 20px;
+}
+.holder{
+    margin-left: 300px;
+}
+.arrow-left{
+    position: absolute;
+    top: 200px;
+    left: 40px;
+    outline: none;
+}
+.arrow-right{
+    position: absolute;
+    top: 200px;
+    left: 1140px;
+    outline: none;
+}
+.dot-slider{
+    position: absolute;
+    top: 390px;
+    left: 600px;
+}
+
